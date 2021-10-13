@@ -1,0 +1,100 @@
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\appsettings.json
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.exe
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.deps.json
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.runtimeconfig.json
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.runtimeconfig.dev.json
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ref\ibscoreapi.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.pdb
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.AssemblyInfoInputs.cache
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.AssemblyInfo.cs
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.csproj.CoreCompileInputs.cache
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\staticwebassets\ibscoreapi.StaticWebAssets.Manifest.cache
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\staticwebassets\ibscoreapi.StaticWebAssets.xml
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\scopedcss\bundle\ibscoreapi.styles.css
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.RazorTargetAssemblyInfo.cache
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.csproj.CopyComplete
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ref\ibscoreapi.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.pdb
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.genruntimeconfig.cache
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ikram\source\repos\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.csprojAssemblyReference.cache
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\appsettings.Development.json
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\appsettings.json
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.exe
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.deps.json
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.runtimeconfig.json
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.runtimeconfig.dev.json
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ref\ibscoreapi.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\ibscoreapi.pdb
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\MySql.Data.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Zstandard.Net.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Renci.SshNet.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\System.DirectoryServices.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.AssemblyInfoInputs.cache
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.AssemblyInfo.cs
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.csproj.CoreCompileInputs.cache
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.MvcApplicationPartsAssemblyInfo.cs
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.MvcApplicationPartsAssemblyInfo.cache
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\staticwebassets\ibscoreapi.StaticWebAssets.Manifest.cache
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\staticwebassets\ibscoreapi.StaticWebAssets.xml
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\scopedcss\bundle\ibscoreapi.styles.css
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.RazorTargetAssemblyInfo.cache
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.csproj.CopyComplete
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ref\ibscoreapi.dll
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.pdb
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.genruntimeconfig.cache
+E:\Mprg\IBS UAE\ibsapi - mail core 5\ibscoreapi\ibscoreapi\obj\Debug\net5.0\ibscoreapi.csprojAssemblyReference.cache

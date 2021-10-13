@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\published http\ibscoreapi</_PublishTargetUrl>
+    <History>True|2021-06-02T11:41:00.1562904Z;True|2021-06-02T17:40:01.7348609+06:00;True|2021-06-02T17:25:56.5134323+06:00;True|2021-05-16T08:48:54.6917065+06:00;True|2021-05-15T20:48:45.4040114+06:00;True|2021-05-03T17:28:29.7251871+06:00;True|2021-05-03T17:05:15.1466753+06:00;True|2021-05-03T17:04:57.8643444+06:00;True|2021-05-03T16:32:04.3118245+06:00;True|2021-05-03T16:31:25.6298802+06:00;True|2021-05-03T16:23:38.3227061+06:00;True|2021-04-20T10:46:48.5585861+06:00;</History>
+  </PropertyGroup>
+</Project>
